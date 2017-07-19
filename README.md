@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to ishbguy's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ishbguy/ishbguy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files, or visit [your github pages](https://ishbguy.github.io) like other blog.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What you are browsing is [ishbguy's GitHub Pages](https://ishbguy.github.io) hosted on GitHub. This github-pages will act as a blog which will update some passage about programming, IT skill learnning, essay and so on. This page is built by [Jekyll](https://jekyllrb.com/), if you love this page, you can fork it on [here](https://github.com/ishbguy/ishbguy.github.io).
 
 ### Markdown
 
