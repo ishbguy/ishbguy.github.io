@@ -34,6 +34,6 @@ fixedNav: 'true' # true or false
 permalink: /:year/:month/:title
 markdown: kramdown
 include: [_pages]
-exclude: [_site, README.md]
+exclude: [Gemfile, Gemfile.lock, _site, README.md]
 sass:
   style: compressed
