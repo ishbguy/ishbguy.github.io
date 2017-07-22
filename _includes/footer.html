@@ -2,6 +2,7 @@
   <div class="u-container c-footer__container">
     <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
     <p>
+      {% if site.email %}<a>{{ site.email }}</a>{% endif %}
       {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}">Github</a>{% endif %}
       {% if site.zhihuUsername %}<a href="https://www.zhihu.com/people/{{ site.githubUsername }}/activities">知</a>{% endif %}
     </p>
