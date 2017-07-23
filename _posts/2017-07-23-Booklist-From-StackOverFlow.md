@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Booklist From StackOVerFlow"
+title: "Booklist From StackOverFlow"
 date: 2017-07-23 22:49:45 +0800
 categories: Booklist
-tags: StackOVerFlow
+tags: StackOverFlow
 ---
 
 * content
 {:toc}
 
-# Booklist From StackOVerFlow
+# Booklist From StackOverFlow
 
-This booklist is rated by StackOVerFlow's users.
+This booklist is rated by StackOverFlow's users.
 
 + Code Complete (2nd edition) by Steve McConnell
 + The Pragmatic Programmer
