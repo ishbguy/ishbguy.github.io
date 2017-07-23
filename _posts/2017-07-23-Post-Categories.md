@@ -19,7 +19,7 @@ tags: Thinking
 + **Pattern**: 主要是通过自己总结提炼，整理笔记，或者一些实践的经验。
 + **Tutorial**: 教程类文章，相关事情的操作步骤，指导手册。
 + **Translation**: 一些外文文章翻译。
-+ **Forward**: 转载的文章。
++ **Reference**: 转载的文章。
 + **Recommendation**: 推荐类内容，技术，工具等。
 + **Introduction**: 介绍性文章。
 + **Thought**: 一些随想，想法，看法之类。
