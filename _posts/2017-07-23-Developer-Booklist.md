@@ -9,6 +9,13 @@ tags: C C++ Python C# Java JavaScript
 * content
 {:toc}
 
+> 作者：Lucida
+> 
+> + **微博**：@peng_gong
+> + **豆瓣**：@figure9
+> 
+> 原文链接：http://lucida.me/blog/developer-reading-list/
+
 # 程序员必读书单
 
 本文把程序员所需掌握的关键知识总结为三大类19个关键概念，然后给出了掌握每个关键
@@ -1162,11 +1169,3 @@ Contrast对比，Repetition重复，Alignment对齐，Proximity亲密）。全�
  5. The five programming books that meant most to me
 
 以上
-
-# 出处
-作者：Lucida
-
-+ **微博**：@peng_gong
-+ **豆瓣**：@figure9
-
-原文链接：http://lucida.me/blog/developer-reading-list/
