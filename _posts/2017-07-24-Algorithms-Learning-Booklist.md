@@ -26,9 +26,9 @@ CS中的算法往往暗指数据结构和算法（例如算法导论指的实际
 
 这篇文章讲了什么？
 
-  • 我这些年学习数据结构和算法的总结。
-  • 一些不错的算法书籍和教程。
-  • 算法的重要性。
++ 我这些年学习数据结构和算法的总结。
++ 一些不错的算法书籍和教程。
++ 算法的重要性。
 
 ## 初学
 
@@ -135,9 +135,9 @@ stof（字符串转浮点数），我磨磨唧唧半天也没写出完整实现�
 
 这件事对我产生了很大的震动——
 
-  • 原来自己连百度实习面试都过不去。
-  • 原来自己还是一个编程弱逼。
-  • 原来自己还是一个算法菜逼。
++ 原来自己连百度实习面试都过不去。
++ 原来自己还是一个编程弱逼。
++ 原来自己还是一个算法菜逼。
 
 痛定思痛，我开始了第二个”五年计划”，三七开的时间分配变成了七三开：七分看书，三
 分WP。而这一阶段的重点从原理（Principle）变成了实现（Implementation）——Talk is
@@ -172,10 +172,10 @@ STL的代码）确实是：快，狠，准，古龙高手三要素全齐。
 甚至还写了一篇当时颇为自得现在读起来极为傻逼的文章来黑那些动不动就”基础”或”内功
 ”的所谓”大牛”们，这里摘取一段现在看起来很傻逼但当时却觉得是真理的文字：
 
-    所以那些动则就扯什么算法啊基础啊内功啊所谓的大牛们，请闭上你的嘴，条条大道
-    通罗马。算法并不是编程的前提条件，数学也不会阻碍一个人成为优秀的程序员。至
-    少在我看来，什么算法基础内功都是唬人的玩意，多编点能用的实用的程序才是王道
-    ，当然如果你是一个pure theorist的话就当我什么都没说好了。
+> 所以那些动则就扯什么算法啊基础啊内功啊所谓的大牛们，请闭上你的嘴，条条大道
+> 通罗马。算法并不是编程的前提条件，数学也不会阻碍一个人成为优秀的程序员。至
+> 少在我看来，什么算法基础内功都是唬人的玩意，多编点能用的实用的程序才是王道
+> ，当然如果你是一个pure theorist的话就当我什么都没说好了。
 
 然而有意思的是，写了这篇文章没多久，鼓吹算法无用论的我自己做的几个大大小小的项
 目全部用到了算法——我疑心是上天在有意抽我的脸。
@@ -224,12 +224,12 @@ Dictionary的items数量有限制，貌似是7000还是8000个item就会崩盘�
 
 痛骂MS坑爹+汉字坑爹之余，还是得自己撸一个库出来：
 
- 1. 首先把那两万个汉字搞了出来，排序，然后弄成一个超长的字符串。
- 2. 接下来用Int16索引了汉字所有的拼音（貌似500多个）。
- 3. 再接下来用Int64建立汉字和拼音的关联——汉字有多音字，所以需要把多个拼音pack到
-    一个Int64里，这个简单，位操作就搞定。
- 4. 最后用二分+位移Unpack，直接做到从汉字到拼音的检索。
- 5. 后来小测了下性能，速度是MS原来那个库的五十倍有余，而代码量只有336行。
+1. 首先把那两万个汉字搞了出来，排序，然后弄成一个超长的字符串。
+2. 接下来用Int16索引了汉字所有的拼音（貌似500多个）。
+3. 再接下来用Int64建立汉字和拼音的关联——汉字有多音字，所以需要把多个拼音pack到
+   一个Int64里，这个简单，位操作就搞定。
+4. 最后用二分+位移Unpack，直接做到从汉字到拼音的检索。
+5. 后来小测了下性能，速度是MS原来那个库的五十倍有余，而代码量只有336行。
 
 用户很happy——因为我捎带把他没想到的多音字都搞定了，而且流畅的一逼。
 
@@ -334,8 +334,7 @@ SSD升级RAM，肉疼啊！！）。一些人会认为这种说法是有问题�
 
 ## 进化
 
-求职毕业季之后就是各种Happy，Happy过后本屌发现即将面临另一个问题：算法能力不足
-。
+求职毕业季之后就是各种Happy，Happy过后本屌发现即将面临另一个问题：算法能力不足。
 
 因为据说以后的同事大多是ACM选手，而本屌从来没搞过算法竞赛，而且知道的算法和数据
 结构都极为基础：像那些元胞自动机、斐波那契堆或是线段树这些高端数据结构压根只是
@@ -353,8 +352,6 @@ SSD升级RAM，肉疼啊！！）。一些人会认为这种说法是有问题�
 据结构入门书，但它绝壁是我读过的排版最好的书，阅读体验爽的一逼；当然这本书的内
 容也不错，尤其是红黑树那一部分，我想不会有什么书会比此书讲的更明白。
 
-6.851 Advanced Data Structures
-
 **Advanced Data Structures**
 
 Advanced Data Structures是MIT的高级数据结构教程，为什么会找到这个教程呢？因为
@@ -362,12 +359,12 @@ Google Advanced Data Structures第一个出来的就是这货。
 
 这门课包含各种让本屌世界观崩坏的奇诡数据结构和算法，它们包括但不限于：
 
-  • 带”记忆”的数据结构（Data Structure with Persistence）。
-  • van Emde Boas（逆天的插入，删除，前驱和后继时间复杂度）。
-  • o(1)时间复杂度的的LCA、RMQ和LA解法。
-  • 奇幻的o(n)时间复杂度的Suffix Tree构建方法。
-  • o(lglgn)的BST。
-  • …
++ 带”记忆”的数据结构（Data Structure with Persistence）。
++ van Emde Boas（逆天的插入，删除，前驱和后继时间复杂度）。
++ o(1)时间复杂度的的LCA、RMQ和LA解法。
++ 奇幻的o(n)时间复杂度的Suffix Tree构建方法。
++ o(lglgn)的BST。
++ …
 
 总之高潮迭起，分分高能，唯一的不足就是没有把它们实现一圈。以后本屌一定找时间把
 它们一个个撸一遍。
@@ -386,16 +383,16 @@ Google Advanced Data Structures第一个出来的就是这货。
 
 Peter Norvig曾经写过一篇非常精彩的SICP书评，我认为这里把SICP换成算法依然适用：
 
-    To use an analogy, if algorithms were about automobiles, it would be for
-    the person who wants to know how cars work, how they are built, and how one
-    might design fuel-efficient, safe, reliable vehicles for the 21st century.
-    The people who hate algorithms are the ones who just want to know how to
-    drive their car on the highway, just like everyone else.
+> To use an analogy, if algorithms were about automobiles, it would be for
+> the person who wants to know how cars work, how they are built, and how one
+> might design fuel-efficient, safe, reliable vehicles for the 21st century.
+> The people who hate algorithms are the ones who just want to know how to
+> drive their car on the highway, just like everyone else.
 
 MIT教授Erik Demaine则更为直接：
 
-    If you want to become a good programmer, you can spend 10 years
-    programming, or spend 2 years programming and learning algorithms.
+> If you want to become a good programmer, you can spend 10 years
+> programming, or spend 2 years programming and learning algorithms.
 
 总而言之，如果你想成为一个码农或是熟练工（Code Monkey），你大可以不学算法，因为
 算法对你确实没有用；但如果你想成为一个优秀的开发者（Developer），扎实的算法必不
