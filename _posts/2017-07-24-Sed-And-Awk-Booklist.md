@@ -11,7 +11,7 @@ tags: Tools
 
 # Sed & AWK Booklist
 
-This is a book list for sed and awk learning
+This is a book list for learning sed and awk:
 
 + {info, man} {sed,awk}
 + sed&awk
