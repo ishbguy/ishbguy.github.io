@@ -47,6 +47,7 @@ Software(application, framework, system)
     + Require
     + Arch
     + Design
+    + Coding
     + Debug
     + Test
     + SA
