@@ -3,7 +3,7 @@ layout: post
 title: "Programming Language Learning"
 date: 2017-07-24 23:32:02 +0800
 categories: Pattern
-tags: Thinking
+tags: CS
 ---
 
 * content

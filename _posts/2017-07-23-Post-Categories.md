@@ -3,7 +3,7 @@ layout: post
 title: "文章分类"
 date: 2017-07-23 14:00:09 +0800
 categories: Pattern
-tags: Thinking
+tags: Blog
 ---
 
 * content

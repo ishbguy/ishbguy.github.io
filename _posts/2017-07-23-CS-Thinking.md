@@ -3,7 +3,7 @@ layout: post
 title: "CS Thinking"
 date: 2017-07-23 11:07:08 +0800
 categories: Pattern
-tags: Thinking
+tags: CS
 ---
 
 * content

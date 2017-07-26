@@ -3,7 +3,7 @@ layout: post
 title: "A Thought about Solving A Problem"
 date: 2017-07-24 23:21:43 +0800
 categories: Thought
-tags: Thinking
+tags: Cognition
 ---
 
 * content
