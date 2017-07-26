@@ -8,81 +8,82 @@ tags: SE
 
 * content
 {:toc}
+# The Practice of Programming Booklist
 
-1.  The Practice of Programming
++  The Practice of Programming
 
-# Style
+## Style
 
-2.  The Elements of Style
-3.  The C Programming Language
-4.  The Elements of Programming Style
-5.  Writing Solid Code
-6.  Code Complete
-7.  Expert C Programming: Deep C Secret
++  The Elements of Style
++  The C Programming Language
++  The Elements of Programming Style
++  Writing Solid Code
++  Code Complete
++  Expert C Programming: Deep C Secret
 
-# Algorithms and Data Structure
+## Algorithms and Data Structure
 
-8.  Algorithms
-9.  Algorithms in C++
-10. The Art of Computer Programming
-11. Design and Validation of Computer Protocols
-    27. Software: Practice and Experience, The Errors of TEX
++  Algorithms
++  Algorithms in C++
++ The Art of Computer Programming
++ Design and Validation of Computer Protocols
++ Software: Practice and Experience, The Errors of TEX
 
-# Design and Impelemntation
+## Design and Impelemntation
 
-12. Generic Programming and the STL
-    3.  The C Programming Language
-13. The C++ Programming Language
-14. The Java Programming Language
-15. The AWK Programming Language
-16. Programming Perl
-17. Design Pattern: Elements of Reusable Object-Oriented Software
-18. The Magic Machine
++ Generic Programming and the STL
++  The C Programming Language
++ The C++ Programming Language
++ The Java Programming Language
++ The AWK Programming Language
++ Programming Perl
++ Design Pattern: Elements of Reusable Object-Oriented Software
++ The Magic Machine
 
-# Interfaces
+## Interfaces
 
-19. The Mythical Man Month
-20. Large-Scale C++ Software Design
-21. C Interfaces and Implementation
-22. Rapid Development
-23. Designing Visual Interfaces: Communication Oriented Techniques
-24. Designing the User Interfaces: Strategies for Effective Human-Computer Interaction
-25. About Face: The Essentials of User Interface Design
-26. User Interface Design
++ The Mythical Man Month
++ Large-Scale C++ Software Design
++ C Interfaces and Implementation
++ Rapid Development
++ Designing Visual Interfaces: Communication Oriented Techniques
++ Designing the User Interfaces: Strategies for Effective Human-Computer Interaction
++ About Face: The Essentials of User Interface Design
++ User Interface Design
 
-# Debugging
+## Debugging
 
-    5.  Writing Solid Code
-    6.  Code Complete
++  Writing Solid Code
++  Code Complete
 
-# Testing
+## Testing
 
-27. Software: Practice and Experience, The Errors of TEX
-28. Programming Pearls
-29. More Programming Pearls
++ Software: Practice and Experience, The Errors of TEX
++ Programming Pearls
++ More Programming Pearls
 
-# Performance
+## Performance
 
-30. Inner Loop
-31. Computer Organization and Design: The Hardware/Software Interfaces
-    28. Programming Pearls
-    29. More Programming Pearls
++ Inner Loop
++ Computer Organization and Design: The Hardware/Software Interfaces
++ Programming Pearls
++ More Programming Pearls
 
-# Portability
+## Portability
 
-32. C: A Reference Manual
-33. Java Language Specification
-34. Advanced Programming in the Unix Environment
-36. The Inferno Operating System
-36. Bell Labs Technical Journal
++ C: A Reference Manual
++ Java Language Specification
++ Advanced Programming in the Unix Environment
++ The Inferno Operating System
++ Bell Labs Technical Journal
 
-# Notation
+## Notation
 
-37. The Unix Programming Environment
-38. TEX: The Program
-39. A Retargetable C Compiler: Design and Implementation
-40. The Java Virtual Machine Specification
-41. Regular Expression Search Algorithm, Communications of the ACM
-42. Mastering Regular Expression
-43. Hardware/Software Tradeoffs for Bitmap Graphics on the Blit, Software-Practice and Experience
++ The Unix Programming Environment
++ TEX: The Program
++ A Retargetable C Compiler: Design and Implementation
++ The Java Virtual Machine Specification
++ Regular Expression Search Algorithm, Communications of the ACM
++ Mastering Regular Expression
++ Hardware/Software Tradeoffs for Bitmap Graphics on the Blit, Software-Practice and Experience
 
