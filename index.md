@@ -3,21 +3,14 @@ layout: page
 title: Welcome to ishbguy's github pages
 ---
 
-# This is my first blog, nice to meet you.
+![]({{ site.baseurl }}{% link _pictures/Reading.jpg %})
 
-## Heading Level 2
+> *Histories make men wise; poets witty; the mathematics subtle; natural
+> philosophy deep; moral grave; logic and rhetoric able to contend.*
+>
+> **历史使人明智；诗歌使人灵秀；数学使人周密；哲学使人深刻；伦理使人庄重；逻辑修辞使人善辩。** 
 
-Test code block highlight.
+**Francis Bacon** -- *Of Studies*
 
-{% highlight c %}
-int main(int argc, char *argv) {
-    printf("hello, github pages.\n");
-    return 0;
-}
-{% endhighlight %}
+弗朗西斯·培根 -- 《论读书》
 
-### Heading Level 3
-
-Test markdown grammar.
-
-> Hello, github pages.
