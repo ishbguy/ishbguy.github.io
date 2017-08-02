@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to ishbguy's github pages
+title: ishbguy's Notes
 ---
 
 ![]({{ site.baseurl }}{% link _pictures/Reading.jpg %})
