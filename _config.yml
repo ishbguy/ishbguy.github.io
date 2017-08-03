@@ -20,6 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ishbguy.github.io" # the base hostname & protocol for your site
 
+repo: ishbguy.github.io
+
 # Social
 githubUsername: ishbguy
 zhihuUsername: ishbguy
@@ -33,7 +35,7 @@ fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
 markdown: kramdown
-include: [_pages, _pictures]
+include: [_pages, _pictures, _icons]
 exclude: [Gemfile, Gemfile.lock, _site, README.md]
 sass:
   style: compressed

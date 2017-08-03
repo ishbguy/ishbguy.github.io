@@ -4,8 +4,26 @@
         <a>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</a>
         </p>
         <p>
-        {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}">Github</a>{% endif %}
-        {% if site.zhihuUsername %}<a href="https://www.zhihu.com/people/{{ site.githubUsername }}/activities">知</a>{% endif %}
+        {% if site.repo %}
+        <a href="https://github.com/{{ site.githubUsername }}/{{ site.repo }}/issues">
+            <img src="{% link _icons/comment.png %}" width="20" height="20" alt="Comment" title="Comment"></img>
+        </a>
+        {% endif %}
+        {% if site.email %}
+        <a href="mailto:{{ site.email }}">
+            <img src="{% link _icons/email.jpg %}" width="20" height="15" alt="Email" title="{{ site.email }}"></img>
+        </a>
+        {% endif %}
+        {% if site.githubUsername %}
+        <a href="https://github.com/{{ site.githubUsername }}">
+            <img src="{% link _icons/github.png %}" width="20" height="20" alt="GitHub" title="GitHub"></img>
+        </a>
+        {% endif %}
+        {% if site.zhihuUsername %}
+        <a href="https://www.zhihu.com/people/{{ site.githubUsername }}">
+            <img src="{% link _icons/zhihu.jpg %}" width="20" height="20" alt="知" title="知乎"></img>
+        </a>
+        {% endif %}
         </p>
     </div>
 </footer>
