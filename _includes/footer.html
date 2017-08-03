@@ -1,9 +1,11 @@
 <footer class="c-footer">
-  <div class="u-container c-footer__container">
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-    <p>
-      {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}">Github</a>{% endif %}
-      {% if site.zhihuUsername %}<a href="https://www.zhihu.com/people/{{ site.githubUsername }}/activities">知</a>{% endif %}
-    </p>
-  </div>
+    <div class="u-container c-footer__container">
+        <p>
+        <a>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</a>
+        </p>
+        <p>
+        {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}">Github</a>{% endif %}
+        {% if site.zhihuUsername %}<a href="https://www.zhihu.com/people/{{ site.githubUsername }}/activities">知</a>{% endif %}
+        </p>
+    </div>
 </footer>
