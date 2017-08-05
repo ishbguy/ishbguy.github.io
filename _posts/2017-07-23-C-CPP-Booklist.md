@@ -11,60 +11,66 @@ tags: C C++
 
 # C/C++ Booklist
 
-This is a booklist for learning the C and C++ programming langauge.
+C/C++ 语言相关学习书单。
 
-## This section is for C learning route
+## C 部分 / Section for C
 
-### Basic
+### 基础 / Basic
 
-+ The C Programming Language
++ The C Programming Language /《C 程序设计语言》
 + C Primer Plus
-+ Pointers on C
-+ C: A Reference Manual
++ Pointers on C /《C 和指针》
 
-### Extra
+### 进阶 / Extra
 
-+ C Traps and Pitfalls
-+ Expert C Programming
-+ The Standard C Library
-+ The Linux C Standard Library
-+ info libc
++ C Traps and Pitfalls /《C 陷阱与缺陷》
++ Expert C Programming /《C 专家编程》
 
-### Advanced
+### 高级 / Advanced
 
-+ C Interface and Implementations
-+ Advance Programming in UNIX Environment
-+ The Linux Programming Interfaces
-+ UNIX Network Programming
-+ The Art of UNIX Programming
++ C Interface and Implementations /《C 语言接口与实现》
++ Advance Programming in UNIX Environment /《UNIX 环境高级编程》
++ The Linux Programming Interfaces /《Linux/UNIX 系统编程手册》
++ UNIX Network Programming /《UNIX 网络编程》
++ The Art of UNIX Programming /《UNIX 编程艺术》
+
+### 参考手册 / Reference
+
++ C: A Reference Manual /《C 语言参考手册》
++ `info libc`
++ The Standard C Library /《C 语言标准库》
 
 
-## This section is for C++ Learning route
+## C++ 部分 / Section for C++
 
-### Basic
+### 基础 / Basic
 
-+ The C++ Programming Language
-+ C++ Primer
-+ The Design and Evolution of C++
-+ Essential C++
 + Accelerated C++
++ C++ Primer
++ Thinking in C++ /《C++ 编程思想》
++ Programming: Principles and Practice Using C++ /《C++ 程序设计原理与实践》
 
-### Extra
+### 进阶 / Extra
 
++ C++ Coding Standard: 101 Rules, Guidelines, and Best Practices /《C++ 编程规范》
++ Essential C++
 + Effective C++
 + More Effective C++
++ C++ Tempalte /《C++ 模板完全指南》
++ C++ STL
++ Effective STL
 + Exceptional C++
 + More Exceptional C++
 + Exceptional C++ Style
-+ C++ Coding Standard: 101 Rules, Guidelines, and Best Practices
-+ Inside the C++ Object Model
 
-### Advanced
+### 高级 / Advanced
 
-+ The C++ Standard Library
-+ Effective STL
-+ Generic Programming and The STL: Using and Extending the C++ Standard Template Library
-+ C++ STL
-+ C++ Tempalte
-+ Thinking in C++
-+ Modern C++ Design
++ Modern C++ Design /《C++ 设计新思维》
++ Inside the C++ Object Model /《深度探索 C++ 对象模型》
++ Generic Programming and The STL: Using and Extending the C++ Standard Template Library /《范型编程与 STL》
++ The Design and Evolution of C++ /《C++ 语言的设计与进化》
+
+### 参考手册 / Reference
+
++ The C++ Programming Language /《C++ 程序设计语言》
++ The C++ Standard Library /《C++ 标准库》
