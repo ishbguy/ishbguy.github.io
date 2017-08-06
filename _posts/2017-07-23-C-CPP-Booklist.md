@@ -37,6 +37,7 @@ C/C++ 语言相关学习书单。
 ### 参考手册 / Reference
 
 + C: A Reference Manual /《C 语言参考手册》
++ [C Online Reference / C 在线参考手册](http://en.cppreference.com/w/)
 + `info libc`
 + The Standard C Library /《C 语言标准库》
 
@@ -73,4 +74,5 @@ C/C++ 语言相关学习书单。
 ### 参考手册 / Reference
 
 + The C++ Programming Language /《C++ 程序设计语言》
++ [C++ Online Reference / C++ 在线参考手册](http://en.cppreference.com/w/)
 + The C++ Standard Library /《C++ 标准库》
