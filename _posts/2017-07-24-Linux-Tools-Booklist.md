@@ -15,32 +15,26 @@ tags: Tools Vim
 
 ## Grep & Find
 
-+ {info, man} {grep, find}
++ `$ {info,man} {grep,find}`
 + grep Pocket Reference
 
-**PS**: Both grep and find are used to search string, however, grep is usually
-used in searching string in text file, and find is usually used in searching
-the files in the system, so they are different. grep can work with regex, you
-can study regex when learning grep. find is very useful in dealing with system
-searching trancation. If you just want to make a simply and fastly searching,
-you can use locate to do it. xargs is a great CMD to let a CMD to process
-multi-file, it is vary useful and effective, but you should think about a
-mount out the file it use just one command line to finish the job.
-
+`grep` 和 `find` 都是 Linux 下的查找工具，都是通过字符串查找，并且支持 regexp，
+但是它们各自的查找对象是不同的，grep 的查找对象是**文本内容**，而 find 的查找
+对象是**文件系统的文件名**。grep 是 GNU regexp 的缩写，find 是 findutils 工具
+包的一个工具，其中包含：find、xargs、locate 等工具，有些系统会把 locate 工具从
+findutils 分离出来形成独立的 mlocate 的软件包，find 一般随 Linux 发行版一起发
+行，但是 mlocate 需要独立安装。
 
 ## Sed & AWK
 
-+ {info, man} {sed,awk}
-+ sed & awk
-+ The awk programming language
-+ Effective awk programming
++ `$ {info,man} {sed,awk}`
++ Sed & AWK /《sed 与 awk》
++ The AWK Programming Language /《AWK 程序设计语言》
++ Effective AWK Programming /《高效 AWK 编程》
 
-**PS**: sed's advantage is to search and replace the text, what's more, it also
-used to format the raw txt data, it is very useful in dealing with text line.
-awk is a powerful text manipulating tool, it's syntax can also become a
-programming language. Its strength is in dealing with text colum and making
-report. All these two can work greatly well with regex, so you should learn
-regex first.
+sed 是一个流编辑器，一般用在文字查找和更替，并且可以格式化 RAW 文本数据。
+awk 也可以进行文字查找和更替，但是 awk 比 sed 更强大，因为 awk 包含数据类型，逻
+辑控制，可以引入第三方库，这已经可以看作一门编程语言了。
 
 ## Make
 
