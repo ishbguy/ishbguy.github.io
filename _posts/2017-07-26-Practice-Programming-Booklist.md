@@ -33,7 +33,7 @@ tags: SE
 + Design and Validation of Computer Protocols
 + Software: Practice and Experience, The Errors of TEX
 
-## 设计与实现 / Design and Impelemntation
+## 设计与实现 / Design and Impelementation
 
 + Generic Programming and the STL /《范型编程和 STL》
 + The C Programming Language /《C 程序设计语言》
