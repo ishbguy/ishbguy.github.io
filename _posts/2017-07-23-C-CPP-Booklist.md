@@ -39,7 +39,7 @@ C/C++ 语言相关学习书单。
 + C: A Reference Manual /《C 语言参考手册》
 + [C Online Reference / C 在线参考手册](http://en.cppreference.com/w/)
 + `info libc`
-+ The Standard C Library /《C 语言标准库》
++ The Standard C Library /《C 标准库》
 
 
 ## C++ 部分 / Section for C++
@@ -53,7 +53,7 @@ C/C++ 语言相关学习书单。
 
 ### 进阶 / Extra
 
-+ C++ Coding Standard: 101 Rules, Guidelines, and Best Practices /《C++ 编程规范》
++ C++ Coding Standards /《C++ 编程规范》
 + Essential C++
 + Effective C++
 + More Effective C++
