@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Algorithms Learning Booklist"
+title: "算法学习之路 -- Algorithms Booklist"
 date: 2017-07-24 22:09:45 +0800
 categories: Booklist Reference
 tags: Algorithms
