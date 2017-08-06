@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Practice of Programming Booklist"
+title: "程序设计实践 Booklist"
 date: 2017-07-26 23:32:16 +0800
 categories: Booklist
 tags: SE
@@ -8,82 +8,86 @@ tags: SE
 
 * content
 {:toc}
-# The Practice of Programming Booklist
 
-+  The Practice of Programming
+# 程序设计实践 Booklist
 
-## Style
+本书单大部分部来自 *The Practice of Programming*《程序设计实践》的引用部分，
+大都比较经典，值得一读。
 
-+  The Elements of Style
-+  The C Programming Language
-+  The Elements of Programming Style
-+  Writing Solid Code
-+  Code Complete
-+  Expert C Programming: Deep C Secret
++ The Practice of Programming /《程序设计实践》
 
-## Algorithms and Data Structure
+## 风格 / Style
 
-+  Algorithms
-+  Algorithms in C++
-+ The Art of Computer Programming
++ The Elements of Style /《风格的要素》
++ The C Programming Language /《C 程序设计语言》
++ The Elements of Programming Style /《编程格调》
++ Writing Solid Code /《编程精粹》
++ Code Complete /《代码大全》
++ Expert C Programming: Deep C Secret /《C 专家编程》
+
+## 算法和数据结构 / Algorithms and Data Structure
+
++ Algorithms /《算法》
++ Algorithms in C++ /《算法 C++ 实现》
++ The Art of Computer Programming /《计算机程序设计艺术》
 + Design and Validation of Computer Protocols
 + Software: Practice and Experience, The Errors of TEX
 
-## Design and Impelemntation
+## 设计与实现 / Design and Impelemntation
 
-+ Generic Programming and the STL
-+  The C Programming Language
-+ The C++ Programming Language
-+ The Java Programming Language
-+ The AWK Programming Language
-+ Programming Perl
-+ Design Pattern: Elements of Reusable Object-Oriented Software
++ Generic Programming and the STL /《范型编程和 STL》
++ The C Programming Language /《C 程序设计语言》
++ The C++ Programming Language /《C++ 程序设计语言》
++ The Java Programming Language /《Java 程序设计语言》
++ The AWK Programming Language /《AWK 程序设计语言》
++ Programming Perl /《Perl 语言编程》
++ Design Pattern: Elements of Reusable Object-Oriented Software /《设计模式》
 + The Magic Machine
 
-## Interfaces
+## 接口 / Interfaces
 
-+ The Mythical Man Month
-+ Large-Scale C++ Software Design
-+ C Interfaces and Implementation
-+ Rapid Development
++ The Mythical Man Month /《人月神话》
++ Large-Scale C++ Software Design /《大规模 C++ 程序设计》
++ C Interfaces and Implementation /《C 语言接口与实现》
++ Rapid Development /《快速 软件开发》
 + Designing Visual Interfaces: Communication Oriented Techniques
 + Designing the User Interfaces: Strategies for Effective Human-Computer Interaction
 + About Face: The Essentials of User Interface Design
 + User Interface Design
 
-## Debugging
+## 调试 / Debugging
 
-+  Writing Solid Code
-+  Code Complete
++ Writing Solid Code /《编程精粹》
++ Code Complete /《代码大全》
 
-## Testing
+## 测试 / Testing
 
 + Software: Practice and Experience, The Errors of TEX
-+ Programming Pearls
-+ More Programming Pearls
++ Programming Pearls /《编程珠玑》
++ More Programming Pearls /《编程珠玑 II》
 
-## Performance
+## 性能 / Performance
 
 + Inner Loop
 + Computer Organization and Design: The Hardware/Software Interfaces
-+ Programming Pearls
-+ More Programming Pearls
++ Programming Pearls /《编程珠玑》
++ More Programming Pearls /《编程珠玑 II》
 
-## Portability
+## 可移植性 / Portability
 
-+ C: A Reference Manual
++ C: A Reference Manual /《C 语言参考手册》
 + Java Language Specification
-+ Advanced Programming in the Unix Environment
++ Advanced Programming in the Unix Environment /《UNIX 环境高级编程》
 + The Inferno Operating System
 + Bell Labs Technical Journal
 
-## Notation
+## 标记 / Notation
 
-+ The Unix Programming Environment
++ The Unix Programming Environment /《UNIX 编程环境》
 + TEX: The Program
 + A Retargetable C Compiler: Design and Implementation
-+ The Java Virtual Machine Specification
++ The Java Virtual Machine Specification /《Java 虚拟机规范》
 + Regular Expression Search Algorithm, Communications of the ACM
-+ Mastering Regular Expression
++ Mastering Regular Expression /《精通正则表达式》
 + Hardware/Software Tradeoffs for Bitmap Graphics on the Blit, Software-Practice and Experience
 
