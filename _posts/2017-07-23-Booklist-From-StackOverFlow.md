@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Booklist From StackOverFlow"
+title: "来自 StackOverFlow 的 Booklist"
 date: 2017-07-23 22:49:45 +0800
 categories: Booklist
 tags: StackOverFlow
@@ -9,9 +9,9 @@ tags: StackOverFlow
 * content
 {:toc}
 
-# Booklist From StackOverFlow
+# 来自 StackOverFlow 的 Booklist
 
-This booklist is rated by StackOverFlow's users.
+这是一份来自 StackOverFlow 用户投票出来的书单：
 
 + Code Complete (2nd edition) by Steve McConnell
 + The Pragmatic Programmer
