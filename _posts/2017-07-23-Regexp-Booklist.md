@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regular Expression Booklist"
+title: "正则表达式 Booklist"
 date: 2017-07-23 22:35:25 +0800
 categories: Booklist
 tags: Regexp
@@ -9,9 +9,9 @@ tags: Regexp
 * content
 {:toc}
 
-# Regular Expression Booklist
+# 正则表达式 Booklist
 
-正则表达式（Regexp）学习书单:
+正则表达式（Regular Expressions, Regexp or Regex）学习书单:
 
 + Introducing Regular Expressions /《学习正则表达式》
 + Regular Expressions Cookbook /《正则表达式 Cookbook》
