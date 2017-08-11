@@ -54,7 +54,7 @@ Here are some markdowns and thoughts when I reading The Pragmatic Programmer.
 ## Pragmatic Paranoia
 
 1. You can't write perfect software.
-2. Design by cantract and convention.
+2. Design by contract and convention.
 3. Easy in and strict out.
 4. Check condition in caller, assert in callee.
 5. Check error in callee, solve in caller.
