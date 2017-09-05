@@ -64,7 +64,7 @@ tags: DB
     数据字典(Data dictionary)和索引(Indies)，的组件主要包括：
     + 授权和完整性管理器(Authorization and integrity manager)：用来检查用户权限
     和数据的完整性约束；
-    + 事务管理器(Transation manager)：用来保证数据一致性，即使遇到系统失败，以及
+    + 事务管理器(Transaction manager)：用来保证数据一致性，即使遇到系统失败，以及
     并行的数据库事务处理；
     + 文件管理器(File manager)：为数据分配物理存储空间以及用于表示存储在磁盘上的
     数据信息；
