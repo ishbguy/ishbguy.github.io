@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 沈焕标 | ishbguy->notes
+title: ishbguy->notes
 ---
 
 ![]({{ site.baseurl }}{% link _pictures/Reading.jpg %})
