@@ -30,7 +30,7 @@ Perl 学习书单
 
 ## 参考 | Reference
 
-+ Perl Pockect Reference
++ Perl Pocket Reference
 
 ## 官方文档 | Official doc
 
