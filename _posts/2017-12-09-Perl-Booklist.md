@@ -26,6 +26,7 @@ Perl 学习书单
 + Mastering Perl /《精通 Perl》
 + Perl Best Practices /《Perl 最佳实践》
 + EffectivePerl Programming /《Perl 高效编程》
++ Perl Hacks
 
 ## 参考 | Reference
 
