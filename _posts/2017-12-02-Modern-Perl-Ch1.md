@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Modern Perl] Ch1: Perl 哲学"
-date: 2017-12-10 18:49:33 +0800
+date: 2017-12-02 13:07:38 +0800
 categories: Note
 tags: Perl
 ---
@@ -11,7 +11,7 @@ tags: Perl
 
 # [[Modern Perl][MP]] Ch1: Perl 哲学
 
-[MP]:(http://www.modernperlbooks.com/books/modern_perl_2016/index.html)
+[MP]:http://www.modernperlbooks.com/books/modern_perl_2016/index.html
 
 + Perl gets things done -- 它是灵活(flexible)，大度(forgiving)，可塑造的(malleable)
 + Perl 是实效的(pragmatic)
@@ -21,7 +21,7 @@ tags: Perl
 
 Perl 尊重你的时间，Perl 文化重视文档。语言本身就内置大量的核心文档，而`perldoc`工具是完整的 Perl 安装的一部分。`perldoc`不但可以查看核心文档，而且可以查看每个已安装模块的文档。
 
-### 如何使用 perldoc 阅读文档
+### 如何使用 perldoc 阅读文档 
 
 `perldoc`的简单使用如下：
 ```shell

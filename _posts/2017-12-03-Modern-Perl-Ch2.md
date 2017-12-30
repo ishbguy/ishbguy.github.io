@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Modern Perl] Ch2: Perl 社区"
-date: 2017-12-11 18:49:33 +0800
+date: 2017-12-03 03:56:39 +0800
 categories: Note
 tags: Perl
 ---
@@ -11,7 +11,7 @@ tags: Perl
 
 # [[Modern Perl][MP]] Ch2: Perl 社区
 
-[MP]:(http://www.modernperlbooks.com/books/modern_perl_2016/index.html)
+[MP]:http://www.modernperlbooks.com/books/modern_perl_2016/index.html
 
 Perl 最伟大的成就是拥有完备的可用代码库，Perl 之父 Larry Wall 明确鼓励 Perl 社区创造并维护他们自己的扩展去解决问题。Perl 欢迎各个层级的参与者，从新手到 Perl 自身开发者。从其他有经验的程序员编写的代码进行学习，这会让你变成更好的程序员。
 
