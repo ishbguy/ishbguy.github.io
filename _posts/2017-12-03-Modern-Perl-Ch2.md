@@ -22,14 +22,14 @@ CPAN(Comprehensive Perl Archive Network)是一个可分发，可复用 Perl 代�
 CPAN 额外提供完备的自动化测试以及跨平台和版本的测试报告。每个 CPAN 分支拥有自己的 [ticket queue](http://rt.cpan.org/) 用于报告 bugs 以及与作者互动。CPAN 网站还提供以往的分支版本，模块评分，文档注释等，所有这些都可以通过 http://search.cpan.org/ 和 http://metacpan.org 进行浏览。
 
 现代的 Perl 安装基本都会包含一个连接，查找，下载，构建，测试和安装 CPAN 分支的客户端，这就是`CPAN.pm`。简单的安装模块操作如下：
-```shell
+{% highlight shell %}
 $ cpan
 cpan[1]> install Modern::Perl
-```
+{% endhighlight %}
 或者直接从命令行安装模块：
-```shell
+{% highlight shell %}
 $ cpan Modern::Perl
-```
+{% endhighlight %}
 
 ### CPAN 管理工具
 
@@ -38,23 +38,23 @@ $ cpan Modern::Perl
 #### `App::cpanminus`
 
 `App::cpanminus`是一个快捷，简单，无需配置的 CPAN 客户端，安装方法如下：
-```shell
+{% highlight shell %}
 $ curl -LO http://xrl.us/cpanm
 $ less cpanm # review the code before running
 $ chmod +x cpanm
 $ ./cpanm
-```
+{% endhighlight %}
 
 #### `App::perlbrew`
 
 `App::perlbrew`是一个管理 Perl 的多版本还有配置的系统，安装同样简单：
-```shell
+{% highlight shell %}
 $ curl -LO http://xrl.us/perlbrew
 $ less perlbrew # review the code before running
 $ chmod +x perlbrew
 $ ./perlbrew install
 $ perldoc App::perlbrew
-```
+{% endhighlight %}
 
 ## 社区网站
 
