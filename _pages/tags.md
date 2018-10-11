@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags | 标签
+title: 标签 | Tags
 permalink: /tags/
 ---
 
