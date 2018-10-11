@@ -1,9 +1,9 @@
-<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+<nav class="c-navigation {% if site.fixedNav == 'false' %}is-fixed{% endif %}">
   <div class="c-navigation__container u-container">
-    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">Home/主页</a>
-    <a class="c-navigation__item {% if page.url == '/articles/' %}is-active{% endif %}" href="{{ "/articles/" | prepend: site.baseurl }}">Articles/文章</a>
-    <a class="c-navigation__item {% if page.url == '/categories/' %}is-active{% endif %}" href="{{ "/categories/" | prepend: site.baseurl }}">Categories/分类</a>
-    <a class="c-navigation__item {% if page.url == '/tags/' %}is-active{% endif %}" href="{{ "/tags/" | prepend: site.baseurl }}">Tags/标签</a>
-    <a class="c-navigation__item {% if page.url == '/about/' %}is-active{% endif %}" href="{{ "/about/" | prepend: site.baseurl }}">About/关于</a>
+    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">主页/Home</a>
+    <a class="c-navigation__item {% if page.url == '/articles/' %}is-active{% endif %}" href="{{ "/articles/" | prepend: site.baseurl }}">文章/Articles</a>
+    <a class="c-navigation__item {% if page.url == '/categories/' %}is-active{% endif %}" href="{{ "/categories/" | prepend: site.baseurl }}">分类/Categories</a>
+    <a class="c-navigation__item {% if page.url == '/tags/' %}is-active{% endif %}" href="{{ "/tags/" | prepend: site.baseurl }}">标签/Tags</a>
+    <a class="c-navigation__item {% if page.url == '/about/' %}is-active{% endif %}" href="{{ "/about/" | prepend: site.baseurl }}">关于/About</a>
   </div>
 </nav>
